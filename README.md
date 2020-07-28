@@ -11,7 +11,6 @@
 - [Videos](#videos)
 - [Community](#community)
 
-For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software).
 
 ## Learning
 
@@ -47,6 +46,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms) - A subtle introduction to computation, the math behind it and its quantum counterparts followed by in-depth discussion of a few quantum algorithms.
 - [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Learn the principles and promises behind developments in quantum computers and quantum internet and how they will impact our future.
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - Introduction to the key concepts of quantum computing with minimal mathematics.
+-[ DelftX: QTM3x Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet ](https://courses.edx.org/courses/course-v1:DelftX+QTM3x+3T2019/course/)
 
 ## Development Tools
 

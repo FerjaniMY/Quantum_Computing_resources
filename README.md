@@ -5,7 +5,7 @@
 - [Learning](#learning)
 - [MOOCs](#moocs)
 - [Development Tools](#development-tools)
-- [Quantum Network Simulators](#Quantum Network Simulators)
+- [Quantum Network Simulators](#quantum-Network-Simulators)
 - [Blogs](#blogs)
 - [Books](#books)
 - [Papers](#papers)
@@ -35,7 +35,7 @@
 - [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students. 
 
 ## MOOCs
-_]
+
 - [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/) - Explanations through problems. Curated along with Microsoft and Alphabet X.
 - [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) - Series of lecture notes on the MIT quantum information sciences course.
 - [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/) - Introductory course on quantum cryptography and how to run quantum programs.
@@ -68,9 +68,9 @@ _]
 - [QuTiP](http://qutip.org/docs/latest/index.html) - Quantum toolbox in Python for simulating dynamics of open quantum systems.
 - [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
 
-## #Quantum Network Simulators
-_ [Netsquid](https://netsquid.org/) - The Network Simulator for Quantum Information using Discrete events (NetSquid) is a software tool for the modelling and simulation of scalable quantum networks developed at QuTech
-_ [Simulaqron] (http://www.simulaqron.org/) - SimulaQron is an application level simulator for a quantum internet that allows you to program your own quantum internet applications. Explore how to realize software for a quantum internet connecting local quantum processors by quantum communication, and develop your own libraries and software engineering concepts suitable for a quantum internet.
+## Quantum-Network-Simulators
+- [Netsquid](https://netsquid.org/) - The Network Simulator for Quantum Information using Discrete events (NetSquid) is a software tool for the modelling and simulation of scalable quantum networks developed at QuTech
+- [Simulaqron](http://www.simulaqron.org/) - SimulaQron is an application level simulator for a quantum internet that allows you to program your own quantum internet applications. Explore how to realize software for a quantum internet connecting local quantum processors by quantum communication, and develop your own libraries and software engineering concepts suitable for a quantum internet.
 ## Blogs
 
 - [Algorithmic Assertions](http://algassert.com/) - About quantum computing and computing in general by Craig Gidney - a member of Google Quantum Computing Team.

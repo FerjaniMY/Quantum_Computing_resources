@@ -5,6 +5,7 @@
 - [Learning](#learning)
 - [MOOCs](#moocs)
 - [Development Tools](#development-tools)
+- [Quantum Network Simulators](#Quantum Network Simulators)
 - [Blogs](#blogs)
 - [Books](#books)
 - [Papers](#papers)
@@ -34,7 +35,7 @@
 - [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students. 
 
 ## MOOCs
-
+_]
 - [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/) - Explanations through problems. Curated along with Microsoft and Alphabet X.
 - [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) - Series of lecture notes on the MIT quantum information sciences course.
 - [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/) - Introductory course on quantum cryptography and how to run quantum programs.
@@ -49,7 +50,7 @@
 -[ DelftX: QTM3x Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet ](https://courses.edx.org/courses/course-v1:DelftX+QTM3x+3T2019/course/)
 
 ## Development Tools
-
+- [Silq](https://silq.ethz.ch/) - Silq is a new high-level programming language for quantum computing with a strong static type system, developed at ETH Zürich.
 - [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) - Online quantum composer to run experiments on real quantum computing hardware.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
@@ -67,12 +68,14 @@
 - [QuTiP](http://qutip.org/docs/latest/index.html) - Quantum toolbox in Python for simulating dynamics of open quantum systems.
 - [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
 
+## #Quantum Network Simulators
+_ [Netsquid](https://netsquid.org/) - The Network Simulator for Quantum Information using Discrete events (NetSquid) is a software tool for the modelling and simulation of scalable quantum networks developed at QuTech
+_ [Simulaqron] (http://www.simulaqron.org/) - SimulaQron is an application level simulator for a quantum internet that allows you to program your own quantum internet applications. Explore how to realize software for a quantum internet connecting local quantum processors by quantum communication, and develop your own libraries and software engineering concepts suitable for a quantum internet.
 ## Blogs
 
 - [Algorithmic Assertions](http://algassert.com/) - About quantum computing and computing in general by Craig Gidney - a member of Google Quantum Computing Team.
 - [Bits of Quantum](http://blog.qutech.nl/) - By the QuTech institution, sharing their research and daily life.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) - Quantum algorithms explained to data scientists with visualisations.
-- [Decodoku](https://medium.com/@decodoku) - Interesting posts on quantum computation, by James Wootton.
 - [Qiskit blog](https://medium.com/qiskit) - All about quantum computation from the Qiskit community team.
 - [Quantum Frontiers](https://quantumfrontiers.com/) - By the Quantum Institute for Quantum Information and Matter, sharing behind the scenes research insights.
 - [Quantum Weekly](https://quantumweekly.com/) - A weekly correlation of all things quantum - computing, cryptography, entanglement.
@@ -93,7 +96,7 @@
 - [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers) - Explains quantum computing through the lens of its practical implementation.
 
 ## Papers
-
+_
 - [Opportunities and Challenges for Quantum Machine Learning](https://arxiv.org/abs/1708.09757) - Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers.
 - [Quantum Machine Learning](https://www.researchgate.net/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining) - Quantum machine learning and what quantum computing means to data mining.
 
@@ -106,7 +109,8 @@
 - [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/)
 
 ## Community
-
+- [QWorld](http://qworld.lu.lv/) - QWorld is a global network of individuals, groups, and communities collaborating on education and implementation of quantum technologies and research activities.
+- [qosf](https://qosf.org/project_list/)
 - [D-Wave Leap Community](https://support.dwavesys.com/hc/en-us/community/topics) - D-Wave System's Leap Community Forum. 
 - [IBM Q Community](https://community.qiskit.org/) - IBM Q Community page with list of upcoming events and latest programs.
 - [IBM Q Qiskit Community](https://qiskit.slack.com/) - Slack Channel for Qiskit and quantum computing discussions.

@@ -6,6 +6,7 @@
 - [MOOCs](#moocs)
 - [Development Tools](#development-tools)
 - [Quantum Network Simulators](#quantum-Network-Simulators)
+- [Quantum machine learning frameworks](#Quantum-machine-learning-frameworks)
 - [Blogs](#blogs)
 - [Books](#books)
 - [Papers](#papers)
@@ -50,6 +51,7 @@
 -[ DelftX: QTM3x Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet ](https://courses.edx.org/courses/course-v1:DelftX+QTM3x+3T2019/course/)
 
 ## Development Tools
+
 - [Silq](https://silq.ethz.ch/) - Silq is a new high-level programming language for quantum computing with a strong static type system, developed at ETH Zürich.
 - [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) - Online quantum composer to run experiments on real quantum computing hardware.
@@ -71,6 +73,11 @@
 ## Quantum-Network-Simulators
 - [Netsquid](https://netsquid.org/) - The Network Simulator for Quantum Information using Discrete events (NetSquid) is a software tool for the modelling and simulation of scalable quantum networks developed at QuTech
 - [Simulaqron](http://www.simulaqron.org/) - SimulaQron is an application level simulator for a quantum internet that allows you to program your own quantum internet applications. Explore how to realize software for a quantum internet connecting local quantum processors by quantum communication, and develop your own libraries and software engineering concepts suitable for a quantum internet.
+
+## Quantum-machine-learning-frameworks
+- [Tensorflow Quantum](https://www.tensorflow.org/quantum) -TensorFlow Quantum (TFQ) is a quantum machine learning library for rapid prototyping of hybrid quantum-classical ML models. Research in quantum algorithms and applications can leverage Google’s quantum computing frameworks, all from within TensorFlow.
+- [Pennylane](https://pennylane.ai/)A cross-platform Python library for quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
+
 ## Blogs
 
 - [Algorithmic Assertions](http://algassert.com/) - About quantum computing and computing in general by Craig Gidney - a member of Google Quantum Computing Team.
@@ -96,7 +103,7 @@
 - [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers) - Explains quantum computing through the lens of its practical implementation.
 
 ## Papers
-_
+- [Quantum Algorithm Implementations for Beginners](https://arxiv.org/abs/1804.03719)
 - [Opportunities and Challenges for Quantum Machine Learning](https://arxiv.org/abs/1708.09757) - Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers.
 - [Quantum Machine Learning](https://www.researchgate.net/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining) - Quantum machine learning and what quantum computing means to data mining.
 

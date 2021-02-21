@@ -108,8 +108,9 @@
 - [Quantum Machine Learning](https://www.researchgate.net/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining) - Quantum machine learning and what quantum computing means to data mining.
 
 ## Videos
-
-- [Video lectures by Ryan O’Donnell](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - Video lectures by Ryan O’Donnell
+- [An introduction to Quantum Machine Learning - Webinar (27-04-2020)] (https://www.youtube.com/watch?v=-DWng3jyBIM&list=PL8o8QWEXLI3QOBOApgCxx6Cur7No346rp&index=6) - An introduction to Quantum Machine Learning - Webinar (27-04-2020)
+-[Trainability of Quantum Neural Networks] (https://www.youtube.com/watch?v=ydtZTmoTONQ&list=PL8o8QWEXLI3QOBOApgCxx6Cur7No346rp&index=5) - Trainability of Quantum Neural Networks
+- [Seth Lloyd: Universal Deep Quantum Learning](https://www.youtube.com/watch?v=iwF3pmyBsGM&list=PL8o8QWEXLI3QOBOApgCxx6Cur7No346rp&index=12&t=663s) - Seth Lloyd: Universal Deep Quantum Learning
 - [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) - YouTube video series showing how to write quantum algorithms
 - [Introduction to Quantum Programming](https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest) - The why and how of quantum programming with a focus on the Python Forest SDK from Rigetti.
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM) - Microsoft Research Talk on introductory quantum computing for computer scientists. Duration: 1 hour, 28 minutes.

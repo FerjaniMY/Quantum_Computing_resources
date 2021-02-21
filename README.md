@@ -109,7 +109,7 @@
 
 ## Videos
 - [An introduction to Quantum Machine Learning - Webinar (27-04-2020)](https://www.youtube.com/watch?v=-DWng3jyBIM&list=PL8o8QWEXLI3QOBOApgCxx6Cur7No346rp&index=6) 
--[Trainability of Quantum Neural Networks](https://www.youtube.com/watch?v=ydtZTmoTONQ&list=PL8o8QWEXLI3QOBOApgCxx6Cur7No346rp&index=5)
+- [Trainability of Quantum Neural Networks](https://www.youtube.com/watch?v=ydtZTmoTONQ&list=PL8o8QWEXLI3QOBOApgCxx6Cur7No346rp&index=5)
 - [Seth Lloyd: Universal Deep Quantum Learning](https://www.youtube.com/watch?v=iwF3pmyBsGM&list=PL8o8QWEXLI3QOBOApgCxx6Cur7No346rp&index=12&t=663s) - Seth Lloyd: Universal Deep Quantum Learning
 - [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) - YouTube video series showing how to write quantum algorithms
 - [Introduction to Quantum Programming](https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest) - The why and how of quantum programming with a focus on the Python Forest SDK from Rigetti.
